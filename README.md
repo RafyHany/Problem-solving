@@ -1,13 +1,14 @@
-accounts
-* for leetCode > https://leetcode.com/RafyHany/
-* for CodeForces > https://codeforces.com/profile/rafyhany1
-* for hackerRank > https://www.hackerrank.com/profile/Rafy_hany
-
-##importance of this repo##
-* this repo has solution for problems in those accounts .. to make all solution open for all people.
+# Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
 
 
-#languages used:
-* C++
-* java
-* python
+# String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
+# Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
