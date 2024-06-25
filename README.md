@@ -45,3 +45,19 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RafyHany/Problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
