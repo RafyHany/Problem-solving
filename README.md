@@ -20,6 +20,7 @@
 | [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/RafyHany/Problem-solving/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RafyHany/Problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RafyHany/Problem-solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [1044-find-common-characters](https://github.com/RafyHany/Problem-solving/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/RafyHany/Problem-solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/RafyHany/Problem-solving/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RafyHany/Problem-solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RafyHany/Problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/RafyHany/Problem-solving/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/RafyHany/Problem-solving/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RafyHany/Problem-solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Math
 |  |
 | ------- |
