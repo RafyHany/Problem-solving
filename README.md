@@ -22,6 +22,7 @@
 | [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/RafyHany/Problem-solving/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/RafyHany/Problem-solving/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RafyHany/Problem-solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
 |  |
@@ -61,18 +62,22 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/RafyHany/Problem-solving/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
 # Counting Sort
 |  |
 | ------- |
@@ -86,3 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RafyHany/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/RafyHany/Problem-solving/tree/master/1285-balance-a-binary-search-tree) |
