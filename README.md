@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RafyHany/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/0020-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0409-longest-palindrome) |
 | [1044-find-common-characters](https://github.com/RafyHany/Problem-solving/tree/master/1044-find-common-characters) |
 # Greedy
@@ -123,3 +124,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/RafyHany/Problem-solving/tree/master/0338-counting-bits) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/0020-valid-parentheses) |
