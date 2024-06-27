@@ -8,6 +8,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/RafyHany/Problem-solving/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/RafyHany/Problem-solving/tree/master/1217-relative-sort-array) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RafyHany/Problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/RafyHany/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 
 
 # String
@@ -27,6 +28,7 @@
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/RafyHany/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RafyHany/Problem-solving/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/RafyHany/Problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/RafyHany/Problem-solving/tree/master/0876-hand-of-straights) |
@@ -109,3 +111,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/RafyHany/Problem-solving/tree/master/1916-find-center-of-star-graph) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/RafyHany/Problem-solving/tree/master/0073-set-matrix-zeroes) |
