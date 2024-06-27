@@ -115,3 +115,11 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RafyHany/Problem-solving/tree/master/0073-set-matrix-zeroes) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/RafyHany/Problem-solving/tree/master/0338-counting-bits) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/RafyHany/Problem-solving/tree/master/0338-counting-bits) |
