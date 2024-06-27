@@ -105,3 +105,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/RafyHany/Problem-solving/tree/master/0102-binary-tree-level-order-traversal) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/RafyHany/Problem-solving/tree/master/1916-find-center-of-star-graph) |
