@@ -128,3 +128,22 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
