@@ -168,6 +168,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -185,5 +186,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
