@@ -143,6 +143,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -164,4 +165,12 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RafyHany/Problem-solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
