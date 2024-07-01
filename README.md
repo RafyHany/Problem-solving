@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
