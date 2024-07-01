@@ -171,6 +171,7 @@
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/RafyHany/Problem-solving/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
