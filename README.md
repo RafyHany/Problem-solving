@@ -175,6 +175,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -193,4 +194,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
