@@ -145,6 +145,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -172,12 +173,14 @@
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/RafyHany/Problem-solving/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -204,4 +207,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
