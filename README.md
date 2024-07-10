@@ -178,6 +178,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/RafyHany/Problem-solving/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RafyHany/Problem-solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | ------- |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
+| [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
