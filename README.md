@@ -190,6 +190,7 @@
 | ------- |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
@@ -220,5 +221,6 @@
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
