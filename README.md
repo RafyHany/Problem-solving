@@ -223,4 +223,8 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/RafyHany/Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
