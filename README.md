@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RafyHany/Problem-solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RafyHany/Problem-solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -192,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RafyHany/Problem-solving/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RafyHany/Problem-solving/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Database
 |  |
 | ------- |
