@@ -15,37 +15,35 @@
  */
 class Solution {
     public TreeNode createBinaryTree(int[][] descriptions) {
-        HashMap<Integer , TreeNode> tree = new HashMap<>() ;
-        HashMap<Integer , Boolean>  isRoot = new HashMap<>() ;
+        HashMap<Integer , TreeNode> tree = new HashMap<>() ; // to keep track of each tree node
+        HashSet<Integer>  isRoot = new HashSet<>() ; // to get root of tree
         for(int i = 0 ; i < descriptions.length ; ++i){
             TreeNode parent ;
             TreeNode child ;
-            if(!tree.containsKey(descriptions[i][0])){
+            if(!tree.containsKey(descriptions[i][0])){ // if parent has been so get it from tree otherwise create it and add to is rrrot and tree
                 parent = new TreeNode(descriptions[i][0]) ;
-                isRoot.put(descriptions[i][0] , true) ;
+                isRoot.add(descriptions[i][0]) ;
                 tree.put(descriptions[i][0] , parent) ;
             }else
                 parent = tree.get(descriptions[i][0]) ;
-            
-            if(!tree.containsKey(descriptions[i][1])){
+
+            if(!tree.containsKey(descriptions[i][1])){ // to get child node if found or create it
                 child = new TreeNode(descriptions[i][1]);
                 tree.put(descriptions[i][1] , child) ;
             }else
                 child = tree.get(descriptions[i][1]) ;
-            
-            isRoot.put(descriptions[i][1] , false) ;
-            
+
+
+            isRoot.remove(descriptions[i][1]) ;  // remove the child from  the root set
+
             if(descriptions[i][2] == 0)
                 parent.right = child ;
             else
                 parent.left = child ;
         }
         int root = 0 ;
-        for(Map.Entry<Integer , Boolean> m : isRoot.entrySet()){
-            if(m.getValue()){
-                root = m.getKey() ;
-                break;
-            }
+        for(int  m : isRoot){ // my hashset onlt has one value whaic is the root
+            root = m ;
         }
 
 
