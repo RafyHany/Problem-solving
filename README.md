@@ -216,6 +216,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
+| [2645-pass-the-pillow](https://github.com/RafyHany/Problem-solving/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2645-pass-the-pillow](https://github.com/RafyHany/Problem-solving/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/RafyHany/Problem-solving/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
