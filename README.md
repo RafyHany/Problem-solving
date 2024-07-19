@@ -221,6 +221,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
+| [1642-water-bottles](https://github.com/RafyHany/Problem-solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RafyHany/Problem-solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RafyHany/Problem-solving/tree/master/2645-pass-the-pillow) |
 ## Linked List
@@ -258,6 +259,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/RafyHany/Problem-solving/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/RafyHany/Problem-solving/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RafyHany/Problem-solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/RafyHany/Problem-solving/tree/master/2645-pass-the-pillow) |
