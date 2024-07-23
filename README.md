@@ -240,6 +240,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RafyHany/Problem-solving/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RafyHany/Problem-solving/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
