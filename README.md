@@ -191,6 +191,7 @@
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/RafyHany/Problem-solving/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/RafyHany/Problem-solving/tree/master/0948-sort-an-array) |
@@ -343,6 +344,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/RafyHany/Problem-solving/tree/master/0322-coin-change) |
 | [1196-filling-bookcase-shelves](https://github.com/RafyHany/Problem-solving/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/RafyHany/Problem-solving/tree/master/1511-count-number-of-teams) |
