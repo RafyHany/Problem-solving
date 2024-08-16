@@ -133,6 +133,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/RafyHany/Problem-solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/RafyHany/Problem-solving/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/RafyHany/Problem-solving/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RafyHany/Problem-solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -206,6 +207,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/RafyHany/Problem-solving/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/RafyHany/Problem-solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RafyHany/Problem-solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/RafyHany/Problem-solving/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/RafyHany/Problem-solving/tree/master/0890-lemonade-change) |
