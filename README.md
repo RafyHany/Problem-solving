@@ -175,6 +175,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RafyHany/Problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/RafyHany/Problem-solving/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RafyHany/Problem-solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RafyHany/Problem-solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -344,6 +345,7 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RafyHany/Problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RafyHany/Problem-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RafyHany/Problem-solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RafyHany/Problem-solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -352,6 +354,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/RafyHany/Problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RafyHany/Problem-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RafyHany/Problem-solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/RafyHany/Problem-solving/tree/master/1653-number-of-good-leaf-nodes-pairs) |
