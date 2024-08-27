@@ -143,6 +143,7 @@
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/RafyHany/Problem-solving/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RafyHany/Problem-solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
@@ -171,6 +172,7 @@
 | [0264-ugly-number-ii](https://github.com/RafyHany/Problem-solving/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RafyHany/Problem-solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/RafyHany/Problem-solving/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -224,6 +226,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/RafyHany/Problem-solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/RafyHany/Problem-solving/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/RafyHany/Problem-solving/tree/master/1293-three-consecutive-odds) |
+| [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RafyHany/Problem-solving/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RafyHany/Problem-solving/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/RafyHany/Problem-solving/tree/master/1511-count-number-of-teams) |
@@ -461,4 +464,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/RafyHany/Problem-solving/tree/master/0476-number-complement) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
