@@ -149,6 +149,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/RafyHany/Problem-solving/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/RafyHany/Problem-solving/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/RafyHany/Problem-solving/tree/master/2803-modify-graph-edge-weights) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0948-sort-an-array](https://github.com/RafyHany/Problem-solving/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/RafyHany/Problem-solving/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/RafyHany/Problem-solving/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -477,4 +479,5 @@
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/RafyHany/Problem-solving/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/RafyHany/Problem-solving/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
