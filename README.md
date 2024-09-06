@@ -259,6 +259,7 @@
 | [2502-sort-the-people](https://github.com/RafyHany/Problem-solving/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/RafyHany/Problem-solving/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/RafyHany/Problem-solving/tree/master/2846-robot-collisions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RafyHany/Problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +325,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RafyHany/Problem-solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RafyHany/Problem-solving/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/RafyHany/Problem-solving/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RafyHany/Problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/RafyHany/Problem-solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/RafyHany/Problem-solving/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RafyHany/Problem-solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RafyHany/Problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
