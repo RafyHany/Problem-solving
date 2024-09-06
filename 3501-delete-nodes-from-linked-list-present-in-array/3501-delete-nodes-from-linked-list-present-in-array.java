@@ -10,26 +10,23 @@
  */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        int max = -1;
-        for(int num : nums ){
-            max = num > max ? num : max;
-        }
-        boolean[] freq = new boolean[max+1];
-
-        for(int num : nums) freq[num] = true;
-
-        ListNode temp = new ListNode();
-        ListNode current = temp;
-
-        while(head != null){
-            if( head.val >= freq.length || freq[head.val] == false){
-                current.next = head;
-                current = current.next;
+        HashSet<Integer> deleted = new HashSet<>();
+        for(int num : nums)
+            deleted.add(num);
+        
+        ListNode newHead = new ListNode(0 , head) ; //dummy node before head
+        ListNode temp = newHead;
+        while( temp != null && temp.next != null){
+            if(deleted.contains(temp.next.val)){
+                if(temp.next == head)
+                    head = head.next ;
+                temp.next = temp.next.next ;
             }
-            head = head.next;
+            else
+                temp = temp.next ;
         }
-
-        current.next = null;
-        return temp.next;
+        newHead.next = null ;
+        
+        return head ;
     }
 }
