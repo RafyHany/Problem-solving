@@ -221,6 +221,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/RafyHany/Problem-solving/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RafyHany/Problem-solving/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RafyHany/Problem-solving/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0870-magic-squares-in-grid](https://github.com/RafyHany/Problem-solving/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/RafyHany/Problem-solving/tree/master/0999-regions-cut-by-slashes) |
@@ -380,6 +382,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RafyHany/Problem-solving/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RafyHany/Problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/RafyHany/Problem-solving/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/RafyHany/Problem-solving/tree/master/1642-water-bottles) |
