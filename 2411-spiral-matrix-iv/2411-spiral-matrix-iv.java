@@ -29,21 +29,21 @@ class Solution {
                 temp = temp.next ;
             }
             right--;
-            if(top <= bottom){
-                for(int i = right ; i >= left && temp != null; --i){
-                    matrix[bottom][i]=  temp.val;
-                    temp = temp.next ;
-                }
-                bottom--;
+        
+            for(int i = right ; i >= left && temp != null; --i){
+                matrix[bottom][i]=  temp.val;
+                temp = temp.next ;
             }
+            bottom--;
+        
 
-            if(left <= right){
-                for(int i = bottom ; i >= top && temp != null; --i){
-                    matrix[i][left]=  temp.val;
-                    temp = temp.next ;
-                }
-                left++;
+        
+            for(int i = bottom ; i >= top && temp != null; --i){
+                matrix[i][left]=  temp.val;
+                temp = temp.next ;
             }
+            left++;
+            
         }
 
         return matrix;
