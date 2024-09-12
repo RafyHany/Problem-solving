@@ -249,6 +249,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RafyHany/Problem-solving/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RafyHany/Problem-solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/RafyHany/Problem-solving/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/RafyHany/Problem-solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RafyHany/Problem-solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -284,6 +285,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RafyHany/Problem-solving/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RafyHany/Problem-solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RafyHany/Problem-solving/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RafyHany/Problem-solving/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -351,6 +353,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/RafyHany/Problem-solving/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RafyHany/Problem-solving/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RafyHany/Problem-solving/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RafyHany/Problem-solving/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/RafyHany/Problem-solving/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RafyHany/Problem-solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -458,6 +461,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/RafyHany/Problem-solving/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RafyHany/Problem-solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -508,6 +512,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/RafyHany/Problem-solving/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RafyHany/Problem-solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Shortest Path
 |  |
