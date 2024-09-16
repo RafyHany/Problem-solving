@@ -156,6 +156,7 @@
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/RafyHany/Problem-solving/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RafyHany/Problem-solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/RafyHany/Problem-solving/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/RafyHany/Problem-solving/tree/master/0948-sort-an-array) |
@@ -227,6 +228,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/RafyHany/Problem-solving/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/RafyHany/Problem-solving/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RafyHany/Problem-solving/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RafyHany/Problem-solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/RafyHany/Problem-solving/tree/master/0870-magic-squares-in-grid) |
@@ -281,6 +283,7 @@
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RafyHany/Problem-solving/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/RafyHany/Problem-solving/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/RafyHany/Problem-solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RafyHany/Problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0726-number-of-atoms](https://github.com/RafyHany/Problem-solving/tree/master/0726-number-of-atoms) |
@@ -321,6 +324,7 @@
 | [0048-rotate-image](https://github.com/RafyHany/Problem-solving/tree/master/0048-rotate-image) |
 | [0264-ugly-number-ii](https://github.com/RafyHany/Problem-solving/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/RafyHany/Problem-solving/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/RafyHany/Problem-solving/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/RafyHany/Problem-solving/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/RafyHany/Problem-solving/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/RafyHany/Problem-solving/tree/master/0650-2-keys-keyboard) |
