@@ -273,6 +273,7 @@
 | [2727-number-of-senior-citizens](https://github.com/RafyHany/Problem-solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/RafyHany/Problem-solving/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/RafyHany/Problem-solving/tree/master/2846-robot-collisions) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RafyHany/Problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RafyHany/Problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -308,6 +309,7 @@
 | [2727-number-of-senior-citizens](https://github.com/RafyHany/Problem-solving/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/RafyHany/Problem-solving/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RafyHany/Problem-solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RafyHany/Problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [2502-sort-the-people](https://github.com/RafyHany/Problem-solving/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/RafyHany/Problem-solving/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RafyHany/Problem-solving/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RafyHany/Problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RafyHany/Problem-solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -579,4 +582,5 @@
 | [0386-lexicographical-numbers](https://github.com/RafyHany/Problem-solving/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/RafyHany/Problem-solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/RafyHany/Problem-solving/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RafyHany/Problem-solving/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
