@@ -12,6 +12,8 @@ class MyCalendar {
                 return false;
             if((start <= e.start )&&(end >= e.end ))
             return false;
+            if(start < e.start && end <= e.end)
+                break;
         }
         schedule.add(new Event(start , end));
         return true;
