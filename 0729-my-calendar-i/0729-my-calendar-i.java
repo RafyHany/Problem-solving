@@ -8,10 +8,9 @@ class MyCalendar {
 
     public boolean book(int start, int end) {
         for(Event e : schedule){
-            if((start >= e.start && start < e.end)||(end > e.start && end <= e.end ))
+            if(start < e.end && end >e.start)
                 return false;
-            if((start <= e.start )&&(end >= e.end ))
-            return false;
+          
             if(start < e.start && end <= e.end)
                 break;
         }
