@@ -6,13 +6,13 @@ class CustomStack {
     public CustomStack(int maxSize) {
         stack = new int[maxSize];
         currentSize = 0 ;
-        top = 0 ;
+        top = -1 ;
     }
 
     public void push(int x) {
         if(currentSize == stack.length)
             return;
-        stack[top++] = x ;
+        stack[++top] = x ;
         currentSize ++;
     }
 
@@ -20,7 +20,7 @@ class CustomStack {
         if(currentSize == 0)
             return -1 ;
         currentSize--;
-        return stack[--top];
+        return stack[top--];
         
     }
 
