@@ -4,6 +4,6 @@
 
 
 select product.product_name , sales.year , sales.price 
-from sales
-join product
+from product
+join sales
 on sales.product_id = product.product_id ;
