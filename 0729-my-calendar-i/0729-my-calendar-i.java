@@ -1,33 +1,22 @@
 class MyCalendar {
-    TreeSet<Event> schedule ;
+    TreeMap<Integer, Integer> calendar = new TreeMap<>();
+
     public MyCalendar() {
-         schedule = new TreeSet<>((a,b)-> {
-            return a.start < b.start? -1 : a.start > b.start? 1 : Integer.compare(a.end , b.end)  ;
-        });
+        calendar.put(Integer.MAX_VALUE, Integer.MAX_VALUE);
     }
 
     public boolean book(int start, int end) {
-        for(Event e : schedule){
-            if(start < e.end && end >e.start)
-                return false;
-          
-            if(start < e.start && end <= e.end)
-                break;
-        }
-        schedule.add(new Event(start , end));
-        return true;
-    }
- 
-}
-class Event{
-    int start ;
-    int end ;
-    public Event(int start , int end){
-        this.start = start ;
-        this.end = end ;
-    }
-    public Event(){
-        this.start = 0 ;
-        this.end = 0 ;
+        Map.Entry<Integer, Integer> pair = calendar.higherEntry(start);
+        // System.out.println(pair.getKey() +" " + pair.getValue());
+        boolean res = end <= pair.getValue();
+        if (res)
+            calendar.put(end, start);
+        return res;
     }
 }
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar obj = new MyCalendar();
+ * boolean param_1 = obj.book(start,end);
+ */
