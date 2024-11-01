@@ -234,6 +234,7 @@
 | [0079-word-search](https://github.com/RafyHany/Problem-solving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RafyHany/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/RafyHany/Problem-solving/tree/master/0179-largest-number) |
 | [0322-coin-change](https://github.com/RafyHany/Problem-solving/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -411,6 +412,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RafyHany/Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RafyHany/Problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/RafyHany/Problem-solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/RafyHany/Problem-solving/tree/master/0729-my-calendar-i) |
