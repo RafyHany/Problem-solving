@@ -318,6 +318,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RafyHany/Problem-solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/RafyHany/Problem-solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RafyHany/Problem-solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RafyHany/Problem-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/RafyHany/Problem-solving/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/RafyHany/Problem-solving/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RafyHany/Problem-solving/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -581,6 +582,7 @@
 | [1240-stone-game-ii](https://github.com/RafyHany/Problem-solving/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RafyHany/Problem-solving/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RafyHany/Problem-solving/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/RafyHany/Problem-solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/RafyHany/Problem-solving/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RafyHany/Problem-solving/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
